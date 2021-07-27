@@ -3,7 +3,6 @@
 # Script de Criacao de Image Backup
 #
 # Autor:Hernani Pires Neto (hernani.pneto@gmail.com)
-# Mob:  +55 11 94111.6197
 # Data: 19/04/2013
 # Versao 0.0.0.1d
 ####################################################################################
