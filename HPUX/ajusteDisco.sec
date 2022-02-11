@@ -1,0 +1,3 @@
+ioscan -fnC disk
+
+./list-luns > disk.lst

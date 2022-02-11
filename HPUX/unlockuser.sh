@@ -6,7 +6,7 @@ USER=$1
 #/usr/lbin/getprdef -r > /dev/null 2>&1
 /usr/lbin/getprdef
 
-if [ $? -eq 0 ]
+#if [ $? -eq 0 ]
 
 userdbset -d -u $USER auth_failuresuserdbset -d -u $USER auth_failures
 
